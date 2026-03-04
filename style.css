@@ -620,9 +620,6 @@ h1 {
     outline: none;
 }
 
-
-
-
 .send-btn {
     background: linear-gradient(135deg, #D4AF37 0%, #F2D388 50%, #B8860B 100%);
     border: none;
@@ -794,7 +791,7 @@ h1 {
     color: #ccc;
 }
 
-/* Valores */
+/*################################################ VALORES #########################################################################*/
 .values-container {
     text-align: center;
     border-top: 1px solid #333;
@@ -908,6 +905,11 @@ h1 {
     font-size: 0.8rem;
     color: #888;
 }
+
+
+
+/*#########################################################################################################################*/
+
 
 /* Controles */
 .slider-controls {
