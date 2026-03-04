@@ -57,5 +57,3 @@ function prevSlide() {
 
 // Auto-play a cada 5 segundos
 setInterval(nextSlide, 5000);
-
-
